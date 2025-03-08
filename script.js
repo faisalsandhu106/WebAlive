@@ -38,7 +38,7 @@ function gsap_scroll(){
 }
 
 function sideBar(){
-  let openMenubar = document.querySelector(".ri-menu-3-line")
+let openMenubar = document.querySelector(".ri-menu-3-line")
 let crossMenubar = document.querySelector(".ri-close-large-line")
 
 let tl = gsap.timeline()
