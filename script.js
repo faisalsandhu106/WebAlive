@@ -1,11 +1,4 @@
 
-function smooth_scrol(){
-  const scroll = new LocomotiveScroll({
-    el: document.querySelector('#main'),
-    smooth: true
-});
-}
-
 function swiper (){
   
 var swiper = new Swiper(".mySwiper", {
@@ -129,7 +122,6 @@ function Scroll_Marque(){
 */
 
 
-smooth_scrol();
 swiper ();
 gsap_scroll();
 sideBar();
