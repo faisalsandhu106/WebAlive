@@ -731,7 +731,7 @@ footer{
 
 /* responsive Code--------------------------------------------------------- */
 
-@media only screen and (max-width:360px){
+@media only screen and (max-width:500px){
     .page-1{
         width: 100%;
         min-height: auto;
